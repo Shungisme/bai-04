@@ -10,7 +10,7 @@
     background-color: green;
 }
 .image-background{
-    background-image: url(../images/khoa-hoc-front-end.jpg);
+    background-image: url(khoa-hoc-front-end.jpg);
     background-attachment: fixed;
     width: 100%;
     height: 200px;
